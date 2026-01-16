@@ -472,6 +472,7 @@ _TEXT_GENERATION_EXAMPLE_MODELS = {
         "ByteDance-Seed/Seed-OSS-36B-Instruct",
         trust_remote_code=True,
     ),
+    "Step1ForCausalLM": _HfExamplesInfo("stepfun-ai/Step-Audio-EditX-AWQ-4bit"),
     "SmolLM3ForCausalLM": _HfExamplesInfo("HuggingFaceTB/SmolLM3-3B"),
     "StableLMEpochForCausalLM": _HfExamplesInfo("stabilityai/stablelm-zephyr-3b"),
     "StableLmForCausalLM": _HfExamplesInfo("stabilityai/stablelm-3b-4e1t"),
